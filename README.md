@@ -122,7 +122,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://imgs.search.brave.com/KoVRxfsYnNnlI_qZNbLPeKRk-Jqnzf9-_s1flTzf5SM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvaGFja2Vy/LXMtbGVnaW9uLXhl/d3NiOWFycnl6ejJh/MnQuZ2lm.gif"  />
+  <img height="200" src="<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/GfoFl1q3RDFkeyhP9b91" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>"  />
 </div>
 
 ###
