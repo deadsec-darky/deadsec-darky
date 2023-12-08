@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgs.search.brave.com/N_KAtLO8aQIM_Kligl-jkjGcvS7iGUVbf8YTbIDAl_8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/MWpFRkllVkVqZ0VB/QUFBQy92aWRlby1h/ZXN0aGV0aWMuZ2lm.gif"  />
+<img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
 
 ###
 
@@ -122,7 +122,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
+  <img height="200" src="https://imgs.search.brave.com/N_KAtLO8aQIM_Kligl-jkjGcvS7iGUVbf8YTbIDAl_8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/MWpFRkllVkVqZ0VB/QUFBQy92aWRlby1h/ZXN0aGV0aWMuZ2lm.gif"  />
 </div>
 
 ###
