@@ -122,7 +122,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/GfoFl1q3RDFkeyhP9b91" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>"  />
+  <img height="200" src="https://jumpshare.com/embed/GfoFl1q3RDFkeyhP9b91"  />
 </div>
 
 ###
